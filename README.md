@@ -1,4 +1,4 @@
-# GitHub-Issue-Solver
+# GitFix AI : AI-Powered GitHub Issue Solver
 
 An AI-powered tool that fetches open GitHub issues and suggests solutions using OpenRouter LLMs.
 
